@@ -46,10 +46,10 @@ module.exports = {
     },
     friendLink: [
       {
-        title: '午后南杂',
+        title: 'CSDN',
         desc: 'Enjoy when you can, and endure when you must.',
         email: '1156743527@qq.com',
-        link: 'https://www.recoluan.com'
+        link: 'https://www.csdn.net/'
       },
       {
         title: 'vuepress-theme-reco',
@@ -58,7 +58,15 @@ module.exports = {
         link: 'https://vuepress-theme-reco.recoluan.com'
       },
     ],
-    logo: '/logo.png',
+    //Vssue评论功能
+    vssueConfig: {
+      platform: 'github',
+      owner: 'OWNER_OF_REPO',
+      repo: 'NAME_OF_REPO',
+      clientId: 'YOUR_CLIENT_ID',
+      clientSecret: 'YOUR_CLIENT_SECRET',
+    },
+    logo: '/1.jpg',
     // 搜索设置
     search: true,
     searchMaxSuggestions: 10,
@@ -67,13 +75,13 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'reco_luan',
+    author: '一杯青桔',
     // 作者头像
-    authorAvatar: '/avatar.png',
+    authorAvatar: '/1.jpg',
     // 备案号
     record: 'xxxx',
     // 项目开始时间
-    startYear: '2017'
+    startYear: '2021'
     /**
      * 密钥 (if your blog is private)
      */
