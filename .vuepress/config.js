@@ -1,6 +1,6 @@
 module.exports = {
   title: "一杯青桔的个人博客",
-  description: 'A simple and beautiful vuepress blog theme .',
+  description: '共同进步',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
