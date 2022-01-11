@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 一杯青桔的个人空间
+tagline: 向上的路，并不拥挤
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
@@ -11,8 +11,9 @@ tagline: A simple and beautiful vuepress blog theme.
 #   background: '#fff',
 #   borderRadius: '1rem',
 # }
+bgImage: '/bg.jpg'
 bgImageStyle: {
-  height: '450px'
+  height: '350px'
 }
 isShowTitleInHome: false
 actionText: Guide

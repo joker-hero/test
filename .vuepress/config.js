@@ -1,5 +1,5 @@
 module.exports = {
-  title: "一杯青桔的个人博客",
+  title: "一杯青桔的个人空间",
   description: '共同进步',
   dest: 'public',
   head: [
@@ -10,7 +10,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '主页', link: '/', icon: 'reco-home' },
-      { text: '时间线', link: '/timeline/', icon: 'reco-date' },
+      { text: '动态', link: '/timeline/', icon: 'reco-date' },
       { text: '文档', 
         icon: 'reco-message',
         items: [
@@ -33,12 +33,6 @@ module.exports = {
       ]
     },  
     type: 'blog',
-    //背景图片
-    //home: true,
-    //bgImage: '/bg.jpg',
-    //bgImageStyle: {
-    //  height: '350px'
-    //},
     // 博客设置
     blogConfig: {
       category: {
@@ -106,12 +100,6 @@ module.exports = {
     //   appId: '...',// your appId
     //   appKey: '...', // your appKey
     // }
-  },
-  //背景图片
-  home: true,
-  bgImage: '/bg.jpg',
-  bgImageStyle: {
-    height: '350px'
   },
   markdown: {
     lineNumbers: true
