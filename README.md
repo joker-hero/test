@@ -13,7 +13,7 @@ tagline: 向上的路，并不拥挤
 # }
 bgImage: '/bg.jpg'
 bgImageStyle: {
-  height: '350px'
+  height: '450px'
 }
 isShowTitleInHome: false
 actionText: Guide
