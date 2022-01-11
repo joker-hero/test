@@ -33,6 +33,12 @@ module.exports = {
       ]
     },  
     type: 'blog',
+    //背景图片
+    home: true,
+    bgImage: '/bg.jpg',
+    bgImageStyle: {
+      height: '350px'
+    },
     // 博客设置
     blogConfig: {
       category: {
