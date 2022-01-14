@@ -10,7 +10,7 @@ categories:
 
 # 图像处理基础
 
-![image-20220113215124652](E:\vuepress-demo\vuepress-theme-reco-demo-demo-1.x\vuepress-theme-reco-demo-demo-1.x\.vuepress\public\e.png)
+![image-20220113215124652](/e.png)
 
 ### 图像
 

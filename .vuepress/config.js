@@ -35,6 +35,7 @@ module.exports = {
         'api'
       ]
     },  
+    subSidebar: 'auto',//在所有页面中启用自动生成子侧边栏，原 sidebar 仍然兼容
     type: 'blog',
     // 博客设置
     blogConfig: {
